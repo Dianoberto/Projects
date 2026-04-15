@@ -1,0 +1,11 @@
+# Projects
+My pet projects, from "hello world" to Senior.
+package example
+
+fun main() {
+    println("Привіт, це CI/CD проєкт на Kotlin!")
+}
+
+fun add(a: Int, b: Int): Int {
+    return a + b
+}
